@@ -1,2 +1,3 @@
-# Gradient-Boosting-Case-Study
-Project involving gradient tree boosting
+# Gradient Boosting Case Study for Springboard
+
+Applying concepts from Harvard CS109 course
